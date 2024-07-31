@@ -34,7 +34,9 @@ Bergard's Towel<br>
 
 # Using the mod
 
-Download the NG+_Outfit_Mod.p3a file.<br> After that, navigate to the folder where you have installed Trails through Daybreak. In that location, create a new folder named a 'mods' if you haven't done it before. Just drop the NG+_Outfit_Mod.p3a file in it and you're done.<br> Boot up the game and you should be able to buy these outfits in the Montmart shop that Paulette usually has.
+Download the NG+_Outfit_Mod.p3a file.
+After that, navigate to the folder where you have installed Trails through Daybreak. In that location, create a new folder named a 'mods' if you haven't done it before. Just drop the NG+_Outfit_Mod.p3a file in it and you're done.
+Boot up the game and you should be able to buy these outfits in the Montmart shop that Paulette usually has.
 
 # Why Paulette's shop specifically?
 
