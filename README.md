@@ -2,35 +2,35 @@
 
 This mod allows to acquire the following costumes which are usually available on a NG+ run of the game on a NG run.
 
-The costumes made available with this mod include:
-Van Sans Coat
-Van's Towel
-Van's Samue Attire
-Agnès Sans Coat
-Agnès' Towel
-Agnès' School Uniform
-Agnès Sans Shoes
-Agnès' Samue Attire
-Feri's Hood
-Feri's Towel
-Feri's Lightweight Outfit
-Feri's Samue Attire
-Aaron's Towel
-Aaron's Lightweight Outfit
-Aaron's Samue Attire
-Risette's Towel
-Risette's Loungewear
-Risette's Samue Attire 
-Quatre Sans Coat
-Quatre's Towel
-Quatre's Samue Attire 
-Judith's Poolside Swimwear
-Judith's Towel
-Judith's White Robe
-Judith's 'Disguise'
-Judith's Samue Attire
-Bergard Sans Coat
-Bergard's Towel
+The costumes made available with this mod include:<br>
+Van Sans Coat<br>
+Van's Towel<br>
+Van's Samue Attire<br>
+Agnès Sans Coat<br>
+Agnès' Towel<br>
+Agnès' School Uniform<br>
+Agnès Sans Shoes<br>
+Agnès' Samue Attire<br>
+Feri's Hood<br>
+Feri's Towel<br>
+Feri's Lightweight Outfit<br>
+Feri's Samue Attire<br>
+Aaron's Towel<br>
+Aaron's Lightweight Outfit<br>
+Aaron's Samue Attire<br>
+Risette's Towel<br>
+Risette's Loungewear<br>
+Risette's Samue Attire<br> 
+Quatre Sans Coat<br>
+Quatre's Towel<br>
+Quatre's Samue Attire<br>
+Judith's Poolside Swimwear<br>
+Judith's Towel<br>
+Judith's White Robe<br>
+Judith's 'Disguise'<br>
+Judith's Samue Attire<br>
+Bergard Sans Coat<br>
+Bergard's Towel<br>
 
 # Using the mod
 
