@@ -1,0 +1,471 @@
+{
+    "CostumeParam": [],
+    "DLCTableData": [],
+    "ItemTableData": [
+        {
+            "id": 2603,
+            "chr_restrict": 0,
+            "flags": "",
+            "unk_txt": "1",
+            "category": 17,
+            "subcategory": 15,
+            "unk0": 0,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0.0,
+            "unk4": 0.0,
+            "eff1_id": 0,
+            "eff1_0": 0,
+            "eff1_1": 0,
+            "eff1_2": 0,
+            "eff2_id": 0,
+            "eff2_0": 0,
+            "eff2_1": 0,
+            "eff2_2": 0,
+            "eff3_id": 0,
+            "eff3_0": 0,
+            "eff3_1": 0,
+            "eff3_2": 0,
+            "eff4_id": 0,
+            "eff4_0": 0,
+            "eff4_1": 0,
+            "eff4_2": 0,
+            "eff5_id": 0,
+            "eff5_0": 0,
+            "eff5_1": 0,
+            "eff5_2": 0,
+            "unk5": 0.0,
+            "hp": 0,
+            "ep": 0,
+            "patk": 0,
+            "pdef": 0,
+            "matk": 0,
+            "mdef": 0,
+            "str": 0,
+            "def": 0,
+            "ats": 0,
+            "adf": 0,
+            "agl": 0,
+            "dex": 0,
+            "hit": 0,
+            "eva": 0,
+            "meva": 0,
+            "crit": 0,
+            "spd": 0,
+            "mov": 0,
+            "stack_size": 1,
+            "price": 100,
+            "anim": "",
+            "name": "Beowulf Suit",
+            "desc": "<c698>Changeable in Costume on the Equip menu.</C>\nA special tiger-print costume meant for a fighting hero.",
+            "unk6": 0,
+            "unk7": 0,
+            "unk8": 0,
+            "unk9": 0
+        }
+    ],
+    "ShopItem": [
+        {
+            "shop_id": 21,
+            "item_id": 2603,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2614,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2507,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2500,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2502,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2510,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2512,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2513,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2514,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2517,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2520,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2522,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2524,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2527,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2532,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2534,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2537,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2542,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2544,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2547,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2550,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2552,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2557,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2561,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2562,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2564,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2566,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2567,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2570,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 21,
+            "item_id": 2572,
+            "unknown": 1,
+            "start_scena_flags": [],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 0
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 340,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 341,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 342,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 343,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 344,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 345,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 346,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 347,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 348,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 349,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 350,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        },
+        {
+            "shop_id": 1008,
+            "item_id": 351,
+            "unknown": 14,
+            "start_scena_flags": [
+                15879
+            ],
+            "empty1": 0,
+            "end_scena_flags": [],
+            "int2": 2
+        }
+    ]
+}
