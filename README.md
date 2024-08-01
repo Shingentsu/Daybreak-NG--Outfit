@@ -40,6 +40,12 @@ After that, navigate to the folder where you have installed Trails through Daybr
 
 Boot up the game and you should be able to buy these outfits in the Montmart shop that Paulette usually has.
 
+# Using the mod with other mods
+
+In the case you are using different mods and are not sure if there could be some conflict with this mod, you can make use fo eArmada's [Kuro DLC tool](https://github.com/eArmada8/kuro_dlc_tool/releases) to fuse them together. In that case, you'll need the kurodlc.json file instead of the .p3a file.
+
+In case you have more questions regarding the tool, you can join the [Kiseki Modding Server](https://discord.gg/wYkWS33NQt) and ask about it there.
+
 # Why Paulette's shop specifically?
 
 Short Answer: It's a meta joke
